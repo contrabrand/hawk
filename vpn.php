@@ -1,6 +1,6 @@
 {"Version":"1.01",
 
-"Url":"https://github.com/contrabrand/glider/raw/main/gld.zip" ,
+"Url":"https://github.com/contrabrand/hawk/raw/main/hawk.zip" ,
 
 "Changelog":"  
 
