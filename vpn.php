@@ -1,10 +1,10 @@
-{"Version":"1.03",
+{"Version":"1.04",
 
 "Url":"https://github.com/contrabrand/hawk/raw/main/hawk.zip" ,
 
 "Changelog":"  
 
-แอพส่วนตัว​❤️❤️
+Thankfully for what is done and looking forward to the next step of life and become more grateful to the God
 
 ",
 
