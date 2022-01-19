@@ -1,4 +1,4 @@
-{"Version":"1.04",
+{"Version":"1.05",
 
 "Url":"https://github.com/contrabrand/hawk/raw/main/hawk.zip" ,
 
